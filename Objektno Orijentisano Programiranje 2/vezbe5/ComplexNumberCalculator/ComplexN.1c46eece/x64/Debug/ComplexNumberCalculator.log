@@ -1,0 +1,6 @@
+﻿  ComplexNumberCalculator.cpp
+C:\Users\milos\Fakultet\Objektno Orjentisano Programiranje 2\vezbe5\ComplexNumberCalculator\ComplexNumberCalculator.cpp(63,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\milos\Fakultet\Objektno Orjentisano Programiranje 2\vezbe5\ComplexNumberCalculator\ComplexNumberCalculator.cpp(64,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\milos\Fakultet\Objektno Orjentisano Programiranje 2\vezbe5\ComplexNumberCalculator\ComplexNumberCalculator.cpp(65,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\milos\Fakultet\Objektno Orjentisano Programiranje 2\vezbe5\ComplexNumberCalculator\ComplexNumberCalculator.cpp(59,1): warning C4715: 'expression_parser': not all control paths return a value
+  ComplexNumberCalculator.vcxproj -> C:\Users\milos\Fakultet\Objektno Orjentisano Programiranje 2\vezbe5\ComplexNumberCalculator\x64\Debug\ComplexNumberCalculator.exe
